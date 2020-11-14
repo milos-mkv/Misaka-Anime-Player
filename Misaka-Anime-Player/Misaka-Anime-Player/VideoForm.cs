@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Misaka_Anime_Player
+namespace MisakaAnimePlayer
 {
-    public partial class Form1 : Form
+    public partial class VideoForm : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public VideoForm()
         {
             InitializeComponent();
         }
