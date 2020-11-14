@@ -1,5 +1,5 @@
 # Misaka Anime Player
-Anime player for "Toaru kagaku no railgun" anime written in C#.
+Anime player for "Toaru kagaku no railgun T" anime written in C#.
 
 <p align="center">
     <br>
